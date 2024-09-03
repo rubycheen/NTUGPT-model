@@ -1,7 +1,7 @@
-/offload
-/document
-/embeddings
-/evaluation
+offload/*
+document/*
+embeddings/*
+evaluation/*
 /*.csv
 /*.txt
 /ragas
