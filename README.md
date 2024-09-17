@@ -1,4 +1,4 @@
-### This is just a working version of the ipynbs, not a well-structured one.
+### This is just some working ipynbs, not a well-structured project.
 
 ```evaluate.ipynb```
 用 RAGAS 評估模型回答品質。
